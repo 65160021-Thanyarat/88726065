@@ -3,12 +3,12 @@ body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin: 20px;
-    background-color: #f8f8f8;
+    background-color: #FFF8E3;
 }
 h1 {
     color: #333;
     font-size: 24px;
-    background-color: #DF826C;
+    background-color: #FAEF9B;
     padding: 15px;
     border-radius: 5px;
     color: rgb(0, 0, 0);
@@ -32,7 +32,7 @@ h1 {
     transition: background-color 0.3s, transform 0.2s;
 }
     li.completed {
-    background-color: #D0F288;
+    background-color: #FFF;
     text-decoration: line-through;
 }
     input[type="text"] {
@@ -45,7 +45,7 @@ h1 {
 }
     button {
     padding: 12px 24px;
-    background-color: #8ADAB2;
+    background-color: #6DA4AA;
     color: white;
     border: none;
     border-radius: 8px;
